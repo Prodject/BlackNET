@@ -1,0 +1,9 @@
+c:\users\blackhacker\documents\visual studio 2013\Projects\PHPStub\PHPStub\obj\Debug\PHPStub.vbproj.GenerateResource.Cache
+C:\Users\BlackHacker\Documents\Visual Studio 2013\Projects\PHPStub\PHPStub\bin\Debug\A.exe
+C:\Users\BlackHacker\Documents\Visual Studio 2013\Projects\PHPStub\PHPStub\bin\Debug\A.pdb
+C:\Users\BlackHacker\Documents\Visual Studio 2013\Projects\PHPStub\PHPStub\bin\Debug\A.xml
+C:\Users\BlackHacker\Documents\Visual Studio 2013\Projects\PHPStub\PHPStub\obj\Debug\A.Resources.resources
+C:\Users\BlackHacker\Documents\Visual Studio 2013\Projects\PHPStub\PHPStub\obj\Debug\A.exe
+C:\Users\BlackHacker\Documents\Visual Studio 2013\Projects\PHPStub\PHPStub\obj\Debug\A.xml
+C:\Users\BlackHacker\Documents\Visual Studio 2013\Projects\PHPStub\PHPStub\obj\Debug\A.pdb
+C:\Users\BlackHacker\Documents\Visual Studio 2013\Projects\PHPStub\PHPStub\obj\Debug\A.Form1.resources

@@ -1,0 +1,36 @@
+C:\Users\BlackHacker\Documents\Visual Studio 2013\Projects\WatcherService\WatcherService\bin\Debug\svchost.exe
+C:\Users\BlackHacker\Documents\Visual Studio 2013\Projects\WatcherService\WatcherService\bin\Debug\svchost.pdb
+C:\Users\BlackHacker\Documents\Visual Studio 2013\Projects\WatcherService\WatcherService\bin\Debug\svchost.xml
+C:\Users\BlackHacker\Documents\Visual Studio 2013\Projects\WatcherService\WatcherService\obj\Debug\svchost.Form1.resources
+C:\Users\BlackHacker\Documents\Visual Studio 2013\Projects\WatcherService\WatcherService\obj\Debug\svchost.Resources.resources
+C:\Users\BlackHacker\Documents\Visual Studio 2013\Projects\WatcherService\WatcherService\obj\Debug\WatcherService.vbproj.GenerateResource.Cache
+C:\Users\BlackHacker\Documents\Visual Studio 2013\Projects\WatcherService\WatcherService\obj\Debug\svchost.exe
+C:\Users\BlackHacker\Documents\Visual Studio 2013\Projects\WatcherService\WatcherService\obj\Debug\svchost.xml
+C:\Users\BlackHacker\Documents\Visual Studio 2013\Projects\WatcherService\WatcherService\obj\Debug\svchost.pdb
+C:\Users\Black.Hacker\Desktop\WatcherService\WatcherService\obj\Debug\svchost.exe
+C:\Users\Black.Hacker\Desktop\WatcherService\WatcherService\obj\Debug\svchost.xml
+C:\Users\Black.Hacker\Desktop\WatcherService\WatcherService\obj\Debug\svchost.pdb
+C:\Users\Black.Hacker\Desktop\WatcherService\WatcherService\bin\Debug\svchost.exe
+C:\Users\Black.Hacker\Desktop\WatcherService\WatcherService\bin\Debug\svchost.pdb
+C:\Users\Black.Hacker\Desktop\WatcherService\WatcherService\bin\Debug\svchost.xml
+C:\Users\Black.Hacker\Desktop\WatcherService\WatcherService\obj\Debug\svchost.Form1.resources
+C:\Users\Black.Hacker\Desktop\WatcherService\WatcherService\obj\Debug\svchost.Resources.resources
+C:\Users\Black.Hacker\Desktop\WatcherService\WatcherService\obj\Debug\WatcherService.vbproj.GenerateResource.Cache
+C:\Users\Black.Hacker\Desktop\BlackNET-master\BlackNET v1.0 - Full\WatcherService\WatcherService\obj\Debug\svchost.exe
+C:\Users\Black.Hacker\Desktop\BlackNET-master\BlackNET v1.0 - Full\WatcherService\WatcherService\obj\Debug\svchost.xml
+C:\Users\Black.Hacker\Desktop\BlackNET-master\BlackNET v1.0 - Full\WatcherService\WatcherService\obj\Debug\svchost.pdb
+C:\Users\Black.Hacker\Desktop\BlackNET-master\BlackNET v1.0 - Full\WatcherService\WatcherService\bin\Debug\svchost.exe
+C:\Users\Black.Hacker\Desktop\BlackNET-master\BlackNET v1.0 - Full\WatcherService\WatcherService\bin\Debug\svchost.pdb
+C:\Users\Black.Hacker\Desktop\BlackNET-master\BlackNET v1.0 - Full\WatcherService\WatcherService\bin\Debug\svchost.xml
+C:\Users\Black.Hacker\Desktop\BlackNET-master\BlackNET v1.0 - Full\WatcherService\WatcherService\obj\Debug\svchost.Form1.resources
+C:\Users\Black.Hacker\Desktop\BlackNET-master\BlackNET v1.0 - Full\WatcherService\WatcherService\obj\Debug\svchost.Resources.resources
+C:\Users\Black.Hacker\Desktop\BlackNET-master\BlackNET v1.0 - Full\WatcherService\WatcherService\obj\Debug\WatcherService.vbproj.GenerateResource.Cache
+C:\Users\Black.Hacker\Desktop\BlackNET\WatcherService\WatcherService\obj\Debug\svchost.xml
+C:\Users\Black.Hacker\Desktop\BlackNET\WatcherService\WatcherService\obj\Debug\svchost.pdb
+C:\Users\Black.Hacker\Desktop\BlackNET\WatcherService\WatcherService\bin\Debug\svchost.exe
+C:\Users\Black.Hacker\Desktop\BlackNET\WatcherService\WatcherService\bin\Debug\svchost.pdb
+C:\Users\Black.Hacker\Desktop\BlackNET\WatcherService\WatcherService\bin\Debug\svchost.xml
+C:\Users\Black.Hacker\Desktop\BlackNET\WatcherService\WatcherService\obj\Debug\svchost.Form1.resources
+C:\Users\Black.Hacker\Desktop\BlackNET\WatcherService\WatcherService\obj\Debug\svchost.Resources.resources
+C:\Users\Black.Hacker\Desktop\BlackNET\WatcherService\WatcherService\obj\Debug\WatcherService.vbproj.GenerateResource.Cache
+C:\Users\Black.Hacker\Desktop\BlackNET\WatcherService\WatcherService\obj\Debug\svchost.exe
